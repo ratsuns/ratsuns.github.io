@@ -205,7 +205,7 @@ body {
 .super-navbar__cta {
     color: var(--color-navbar-cta-text)!important;
     background: var(--color-navbar-cta-bg)!important;
-    transition: all 140ms ease-in-out;
+    transition: all 140ms ease-in-out !important;
 }
 
 .super-navbar__cta:hover{
