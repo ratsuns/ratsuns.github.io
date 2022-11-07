@@ -459,7 +459,7 @@ h3.notion-heading {
     text-decoration: none;
     border: 1px solid var(--color-border-default)!important;
     opacity: 1!important;
-    transition: border-color .1s ease-in,opacity .1s ease-in;
+    transition: border-color .1s ease-in, background .2s ease-in-out;
     background: var(--color-cta-background)!important;
     margin: 20px 0px!important;
     padding: 10px 15px!important;
