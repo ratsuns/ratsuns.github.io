@@ -174,7 +174,7 @@ body {
 
 @media only screen and (max-width: 680px){
     div[class="notion-image align-start page-width"] > span {
-    height: 40vw !important;
+    height: 48vw !important;
     }
     
     div[class="notion-image align-start page-width"] {
