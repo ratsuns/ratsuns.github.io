@@ -40,8 +40,8 @@
     --color-hover-default: #111111!important;
     --color-bg-glass-default: rgb(255 255 255/3%)!important;
     --color-border-default: #242424!important;
-    --color-cta-background: #151517!important;
-    --color-cta-background-hover: #2e2d2d!important;
+    --color-cta-background: #212121!important;
+    --color-cta-background-hover: #151517!important;
     --color-cta-text: #F5F2EE!important;
     --color-navbar-cta-text: var(--color-text-default)!important;
     --color-navbar-cta-bg: rgba(0,0,0,.1)!important;
