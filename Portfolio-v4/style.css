@@ -401,6 +401,23 @@ h3.notion-heading {
 }
 
 
+
+@media (max-width: 546px) {
+.notion-collection-list__item {
+     flex-direction: row !important;
+     align-items: center !important;
+    }
+}
+    
+    
+@media (max-width: 400px) {
+.notion-collection-list__item-content {
+    display: none!important;
+    }
+}
+
+
+
 @media all and (max-width: 764px) {
     
     /*.notion-collection-list__item-content {
