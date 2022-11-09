@@ -184,6 +184,12 @@ body {
     }
  }
   
+@media all and (max-width: 400px) {
+    .notion-collection-list__item-content {
+        display: none!important;
+    }
+}
+
 
 
 
@@ -405,9 +411,7 @@ h3.notion-heading {
     top: 2px!important;
 }
 @media all and (max-width: 764px) {
-    .notion-collection-list__item-content {
-        display: none!important;
-    }
+    
     .notion-collection-list__item .notion-property__title {
         margin-bottom: 0px!important;
     }
