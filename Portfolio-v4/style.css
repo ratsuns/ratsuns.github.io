@@ -410,7 +410,7 @@ h3.notion-heading {
 }
     
     
-@media (max-width: 400px) {
+@media (max-width: 360px) {
 .notion-collection-list__item-content {
     display: none!important;
     }
