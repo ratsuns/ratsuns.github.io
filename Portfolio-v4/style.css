@@ -169,11 +169,6 @@ body {
 
 
 
-
-
-
-
-
 @media only screen and (max-width: 680px){
     div[class="notion-image align-start page-width"] > span {
     height: 48vw !important;
@@ -182,7 +177,7 @@ body {
     div[class="notion-image align-start page-width"] {
       text-align: center;
     }
- }
+}
   
 
 
@@ -432,9 +427,9 @@ h3.notion-heading {
     .notion-collection-list__item .notion-property__title .notion-semantic-string {
         white-space: pre-wrap!important;
     }
-    .notion-collection-list .notion-property__select {
-       /*display: none!important;*/
-    }
+    /*.notion-collection-list .notion-property__select {
+       display: none!important;
+    }*/
     .notion-property__title__icon-wrapper {
         margin-right: 15px!important;
     }
