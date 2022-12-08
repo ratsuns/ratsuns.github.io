@@ -291,7 +291,7 @@ h3.notion-heading {
     margin: 5px 0px!important;
 }
 .notion-collection-list .notion-property__title > .notion-semantic-string {
-    max-width: 400px!important;
+    /*max-width: 400px!important;*/
     white-space: initial!important;
 }
 .notion-collection-list__item:hover {
