@@ -47,6 +47,7 @@
     --color-navbar-cta-bg: rgba(0,0,0,.1)!important;
     --color-pill-gray: #151517!important;
     --scrollbar-color: #383838!important;
+    --background-dots-color: rgb(245 242 238 / 20%);
     
     --color-navbar-cta-text-hover: #353942!important;
     --footer-text-color: var(--color-text-default);
@@ -64,6 +65,7 @@
     --color-navbar-cta-text: var(--color-text-default)!important;
     --color-pill-gray: #e9e9e9!important;
     --scrollbar-color: #D1D1D1!important;
+    --background-dots-color: rgb(0 2 80 / 20%);
     
     
     /* This is to change the color of icons
