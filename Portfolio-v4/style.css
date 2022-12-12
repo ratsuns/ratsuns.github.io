@@ -15,6 +15,7 @@
     --color-navbar-cta-bg: rgba(0,0,0,.4)!important;
     --color-pill-gray: #151517!important;
     --scrollbar-color: #383838!important;
+    --quote-size: 1.1rem !important;
 }
 .theme-darkmode body {
     --color-bg-default: #1e2025!important;
