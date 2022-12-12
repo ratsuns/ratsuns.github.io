@@ -678,7 +678,7 @@ html::-webkit-scrollbar-track {
     .notion-dropdown__option-list {
         display: flex !important;
         padding: 0 !important;
-        margin-left: -10px!important;
+        /*margin-left: -10px!important;*/
     }
     .notion-dropdown__option.active-filter {
         background: var(--color-text-default)!important;
