@@ -673,7 +673,7 @@ html::-webkit-scrollbar-track {
     .notion-dropdown__option p {
         transition: color .2s ease-in-out !important;
         color: var(--color-grey)!important;
-        font-size: 1rem !important;
+        /*font-size: 1rem !important;*/
     }
     .notion-dropdown__option-list {
         display: flex !important;
