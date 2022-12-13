@@ -617,6 +617,7 @@ html::-webkit-scrollbar-track {
     background: var(--color-bg-default)!important;
     border: 1px solid var(--color-border-default)!important;
     margin-top: 5px!important;
+    z-index: 29 !important;
 }
 .notion-dropdown__option-list {
     padding: 0px!important;
