@@ -680,10 +680,10 @@ html::-webkit-scrollbar-track {
         padding: 0 !important;
         /*margin-left: -10px!important;*/
     }
-    .notion-dropdown__option.active-filter {
+    .notion-dropdown__option.active-filters {
         background: var(--color-text-default)!important;
     }
-    .notion-dropdown__option.active-filter p {
+    .notion-dropdown__option.active-filters p {
         color: var(--color-bg-default)!important;
     }
 }
