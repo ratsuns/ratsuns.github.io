@@ -691,6 +691,7 @@ html::-webkit-scrollbar-track {
 .theme-switch {
     cursor: pointer!important;
     opacity:.7;
+    color: var(--color-text-default);
     width: 22px!important;
     height: 22px!important;
     transition: all .2s ease-in-out!important;
